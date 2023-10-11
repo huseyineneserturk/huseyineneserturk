@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fred-and-black-red-background-gif-25702728&psig=AOvVaw2mCSgDB7-Delaxd6j3ZA3h&ust=1697112965712000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJitnNT87YEDFQAAAAAdAAAAABAX)
+[MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fred-and-black-red-background-gif-25702728&psig=AOvVaw2mCSgDB7-Delaxd6j3ZA3h&ust=1697112965712000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJitnNT87YEDFQAAAAAdAAAAABAX)
 
 <h1 align="center">Hi 👋, I'm Huseyin Enes ERTURK</h1>
 <h3 align="center">--->I am a first year software engineering student.</h3>
