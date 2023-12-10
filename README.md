@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Java and Kotlin**
 
-- 👯 I’m looking to collaborate on [flowgorithm-flowchart-ornekleri](............)
+- 👯 I’m looking to collaborate on [flowgorithm-flowchart-ornekleri](https://github.com/huseyineneserturk/flowgorithm-flowchart-ornekleri)
 
 - 🤝 I’m looking for help with [...............](............)
 
-- 👨‍💻 All of my projects are available at [.........](.........)
+- 👨‍💻 All of my projects are available at [Java-Ornekleri](.........)
 
 - 📝 I regularly write articles on [.........](.........)
 
