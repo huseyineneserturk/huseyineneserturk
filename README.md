@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java and Kotlin**
 
-- 👯 I’m looking to collaborate on [flowgrithm-ornekleri](............)
+- 👯 I’m looking to collaborate on [flowgorithm-flowchart-ornekleri](............)
 
 - 🤝 I’m looking for help with [...............](............)
 
