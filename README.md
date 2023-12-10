@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [...............](............)
 
-- 🌱 I’m currently learning **Java and Kotlin**
+- 🌱 I’m currently learning **Java and Flutter**
 
 - 👯 I’m looking to collaborate on [flowgorithm-flowchart-ornekleri](https://github.com/huseyineneserturk/flowgorithm-flowchart-ornekleri)
 
 - 🤝 I’m looking for help with [...............](............)
 
-- 👨‍💻 All of my projects are available at [Java-Ornekleri](.........)
+- 👨‍💻 All of my projects are available at [Java-Ornekleri](https://github.com/huseyineneserturk/Java-Ornekleri)
 
 - 📝 I regularly write articles on [.........](.........)
 
