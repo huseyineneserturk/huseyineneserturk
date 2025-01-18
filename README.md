@@ -1,7 +1,7 @@
 [MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fred-and-black-red-background-gif-25702728&psig=AOvVaw2mCSgDB7-Delaxd6j3ZA3h&ust=1697112965712000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJitnNT87YEDFQAAAAAdAAAAABAX)
 
 <h1 align="center">Hi 👋, I'm Huseyin Enes ERTURK</h1>
-<h3 align="center">--->I am a first year software engineering student.</h3>
+<h3 align="center">--->I am a  2nd grade software engineering student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyineneserturk&label=Profile%20views&color=0e75b6&style=flat" alt="huseyineneserturk" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [...............](............)
 
-- 👨‍💻 All of my projects are available at [Java-Ornekleri](https://github.com/huseyineneserturk/Java-Ornekleri)
+- 👨‍💻 All of my projects are available at 
 
 - 📝 I regularly write articles on [.........](.........)
 
