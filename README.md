@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Yazılım+Mühendisliği+Öğrencisi;Backend+Developer;Data+Analyst;Problem+Solver;Code+Enthusiast)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Yazılım+Mühendisliği+Öğrencisi;Backend+Developer+Adayı;Veri+Analizine+Meraklı;Problem+Solver;Code+Enthusiast)
   
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   
@@ -22,7 +22,7 @@ const huseyinEnes = {
     focus: ["Backend Development", "Data Analysis", "Problem Solving"],
     currentlyWorking: "CommsItumo Project",
     askMeAbout: ["Java", "C#", "Python", "Algorithms", "Data Structures"],
-    funFact: "Bug'ları yakalamak benim süper gücüm! 🐛🔍"
+    funFact: "Bug lover! 🐛🔍"
 };
 ```
 
