@@ -1,41 +1,70 @@
-[MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fred-and-black-red-background-gif-25702728&psig=AOvVaw2mCSgDB7-Delaxd6j3ZA3h&ust=1697112965712000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJitnNT87YEDFQAAAAAdAAAAABAX)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  </p>
 
-<h1 align="center">Hi 👋, I'm Huseyin Enes ERTURK</h1>
-<h3 align="center">--->I am a  2nd grade software engineering student.</h3>
+<h1 align="center">Selam Millet! 👋 Ben Hüseyin Enes ERTÜRK</h1>
+<h3 align="center">🚀 Kod dünyasının derinliklerine dalmış bir 2. sınıf Yazılım Mühendisliği öğrencisiyim! 💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyineneserturk&label=Profile%20views&color=0e75b6&style=flat" alt="huseyineneserturk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyineneserturk&label=Profil%20Görüntülenme%20Sayısı&color=0e75b6&style=flat" alt="huseyineneserturk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseyineneserturk" alt="huseyineneserturk" /></a> </p>
 
-- 🔭 I’m currently working on [...............](............)
+---
 
-- 🌱 I’m currently learning **Java and Flutter**
+### <p align="center">✨ Güncel Durum ✨</p>
 
-- 👯 I’m looking to collaborate on [flowgorithm-flowchart-ornekleri](https://github.com/huseyineneserturk/flowgorithm-flowchart-ornekleri)
+🔭 **Şu sıralar ne yapıyorum?**
+   - Aktif olarak [CommsItumo](https://github.com/huseyineneserturk/CommsItumo) projem üzerinde çalışıyorum! 🛠️
+   - Özellikle **Backend Geliştirme** ve **Veri Analizi** alanlarında kendimi derinlemesine geliştiriyorum. 📊⚙️
 
-- 🤝 I’m looking for help with [...............](............)
+🌱 **Neler öğreniyorum & Odak Alanlarım:**
+   - Backend mimarileri, API geliştirme ve veri işleme teknikleri üzerine yoğunlaşıyorum.
+   - Veri analizi araçları ve metodolojileriyle ufkumu genişletiyorum.
 
-- 👨‍💻 All of my projects are available at 
+👯 **Kimlerle işbirliği yapmak isterim?**
+   - [flowgorithm-flowchart-ornekleri](https://github.com/huseyineneserturk/flowgorithm-flowchart-ornekleri) projemde veya benzer algoritma/akış şeması konularında destek olmak isteyen herkesle! Gelin birlikte öğrenelim ve öğretelim! 🤝
 
-- 📝 I regularly write articles on [.........](.........)
+🤝 **Yardım & İşbirliği:**
+   - Her zaman yeni şeyler öğrenmeye ve kendimi geliştirmeye açığım! Özellikle backend teknolojileri ve veri analizi konularında yeni fikirlere ve işbirliklerine her zaman varım. 🤓
 
-- ........ **.........**
+👨‍💻 **Projelerime Göz Atın:**
+   - Tüm çalışmalarıma ve projelerime daha yakından bakmak için [GitHub Repolarım](https://github.com/huseyineneserturk?tab=repositories)'a bir göz atabilirsiniz. 🚀
 
-- 📫 How to reach me **huseyineneserturk@gmail.com**
+📝 **Yazı Yazıyor muyum?**
+   - Şimdilik hayır.
+📬 **Bana nasıl ulaşabilirsiniz?**
+   - Çekinmeyin, bir e-posta kadar uzağınızdayım: **huseyineneserturk@gmail.com** 💌
 
-- 📄 Know about my experiences [.........](.........)
+📄 **Deneyimlerim hakkında daha fazlası:**
+   <a href="https://www.linkedin.com/in/h%C3%BCseyin-enes-ert%C3%BCrk-1ba5ba28b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huseyineneserturk-linkedin" height="30" width="40" /></a>
 
-- ⚡ Fun fact **Curious**
+---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Benimle Bağlantı Kurun:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/h%C3%BCseyin-enes-ert%C3%BCrk-1ba5ba28b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huseyineneserturk-linkedin" height="30" width="40" /></a>
 <a href="https://dev.to/huseyineneserturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="huseyineneserturk" height="30" width="40" /></a>
 <a href="https://instagram.com/huseyineneserturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huseyineneserturk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/huseyinenesertu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="huseyinenesertu1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/huseyineneserturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="huseyineneserturk" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<h3 align="left">🛠️ Kullandığım Diller ve Araçlar:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyineneserturk&show_icons=true&locale=en" alt="huseyineneserturk" /></p>
+---
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyineneserturk&show_icons=true&locale=tr&theme=radical" alt="huseyineneserturk" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseyineneserturk&theme=radical&locale=tr" alt="huseyineneserturk_streak" />
+</p>
