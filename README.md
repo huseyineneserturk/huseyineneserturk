@@ -3,7 +3,7 @@
   </p>
 
 <h1 align="center">Selam Millet! 👋 Ben Hüseyin Enes ERTÜRK</h1>
-<h3 align="center">🚀 Kod dünyasının derinliklerine dalmış bir 2. sınıf Yazılım Mühendisliği öğrencisiyim! 💻</h3>
+<h3 align="center">🚀 Yazılım dünyasının derinliklerine dalmış bir 2. sınıf Yazılım Mühendisliği öğrencisiyim! 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyineneserturk&label=Profil%20Görüntülenme%20Sayısı&color=0e75b6&style=flat" alt="huseyineneserturk" /> </p>
 
