@@ -1,69 +1,186 @@
-<p align="center">
+# <div align="center">👋 Selam Millet! Ben **Hüseyin Enes ERTÜRK**</div>
+
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Yazılım+Mühendisliği+Öğrencisi;Backend+Developer;Data+Analyst;Problem+Solver;Code+Enthusiast)
+  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-  </p>
-
-<h1 align="center">Selam Millet! 👋 Ben Hüseyin Enes ERTÜRK</h1>
-<h3 align="center">🚀 Yazılım dünyasının derinliklerine dalmış bir 2. sınıf Yazılım Mühendisliği öğrencisiyim! 💻</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyineneserturk&label=Profil%20Görüntülenme%20Sayısı&color=0e75b6&style=flat" alt="huseyineneserturk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseyineneserturk" alt="huseyineneserturk" /></a> </p>
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=huseyineneserturk&label=Profil%20Görüntülenme&color=6C63FF&style=for-the-badge)](https://github.com/huseyineneserturk)
+  
+</div>
 
 ---
 
-### <p align="center">✨ Güncel Durum ✨</p>
+## 🎯 **Hakkımda**
 
-🔭 **Şu sıralar ne yapıyorum?**
-   - Aktif olarak [CommsItumo](https://github.com/huseyineneserturk/CommsItumo) projem üzerinde çalışıyorum! 🛠️
-   - Özellikle **Backend Geliştirme** ve **Veri Analizi** alanlarında kendimi derinlemesine geliştiriyorum. 📊⚙️
-
-🌱 **Neler öğreniyorum & Odak Alanlarım:**
-   - Backend mimarileri, API geliştirme ve veri işleme teknikleri üzerine yoğunlaşıyorum.
-   - Veri analizi araçları ve metodolojileriyle ufkumu genişletiyorum.
-
-👯 **Kimlerle işbirliği yapmak isterim?**
-   - [flowgorithm-flowchart-ornekleri](https://github.com/huseyineneserturk/flowgorithm-flowchart-ornekleri) projemde veya benzer algoritma/akış şeması konularında destek olmak isteyen herkesle! Gelin birlikte öğrenelim ve öğretelim! 🤝
-
-🤝 **Yardım & İşbirliği:**
-   - Her zaman yeni şeyler öğrenmeye ve kendimi geliştirmeye açığım! Özellikle backend teknolojileri ve veri analizi konularında yeni fikirlere ve işbirliklerine her zaman varım. 🤓
-
-👨‍💻 **Projelerime Göz Atın:**
-   - Tüm çalışmalarıma ve projelerime daha yakından bakmak için [GitHub Repolarım](https://github.com/huseyineneserturk?tab=repositories)'a bir göz atabilirsiniz. 🚀
-
-📝 **Yazı Yazıyor muyum?**
-   - Şimdilik hayır.
-📬 **Bana nasıl ulaşabilirsiniz?**
-   - Çekinmeyin, bir e-posta kadar uzağınızdayım: **huseyineneserturk@gmail.com** 💌
-
-📄 **Deneyimlerim hakkında daha fazlası:**
-   <a href="https://www.linkedin.com/in/h%C3%BCseyin-enes-ert%C3%BCrk-1ba5ba28b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huseyineneserturk-linkedin" height="30" width="40" /></a>
+```typescript
+const huseyinEnes = {
+    title: "Software Engineering Student",
+    year: "2nd Year",
+    location: "Turkey 🇹🇷",
+    focus: ["Backend Development", "Data Analysis", "Problem Solving"],
+    currentlyWorking: "CommsItumo Project",
+    askMeAbout: ["Java", "C#", "Python", "Algorithms", "Data Structures"],
+    funFact: "Bug'ları yakalamak benim süper gücüm! 🐛🔍"
+};
+```
 
 ---
 
-<h3 align="left">🔗 Benimle Bağlantı Kurun:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/h%C3%BCseyin-enes-ert%C3%BCrk-1ba5ba28b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huseyineneserturk-linkedin" height="30" width="40" /></a>
-<a href="https://dev.to/huseyineneserturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="huseyineneserturk" height="30" width="40" /></a>
-<a href="https://instagram.com/huseyineneserturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huseyineneserturk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/huseyinenesertu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="huseyinenesertu1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/huseyineneserturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="huseyineneserturk" height="30" width="40" /></a>
-</p>
+## 🚀 **Şu An Ne Yapıyorum?**
 
-<h3 align="left">🛠️ Kullandığım Diller ve Araçlar:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  </p>
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+        <h3>🔭 Active Project</h3>
+        <p><strong>CommsItumo</strong><br/>Aktif geliştirme aşamasında!</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
+        <h3>🌱 Learning</h3>
+        <p><strong>Backend & Data Analysis</strong><br/>Sürekli öğrenme modunda!</p>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
 ---
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyineneserturk&show_icons=true&locale=tr&theme=radical" alt="huseyineneserturk" />
-</p>
+## 🛠️ **Tech Stack & Tools**
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseyineneserturk&theme=radical&locale=tr" alt="huseyineneserturk_streak" />
-</p>
+<div align="center">
+
+### 💻 **Programming Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🔧 **Tools & Technologies**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### 📊 **Areas of Interest**
+- 🔥 **Backend Development**
+- 📈 **Data Analysis**
+- 🧩 **Algorithm Design**
+- 🏗️ **System Architecture**
+
+</div>
+
+---
+
+## 📊 **GitHub İstatistiklerim**
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huseyineneserturk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyineneserturk&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyineneserturk&theme=tokyonight" alt="huseyineneserturk" />
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyineneserturk&theme=tokyo-night" width="100%"/>
+  
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=huseyineneserturk&theme=onedark&column=8&margin-w=15&margin-h=15)
+  
+</div>
+
+---
+
+## 🤝 **İşbirliği & Yardım**
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+        <h4>👯 İşbirliği</h4>
+        <p>Flowgorithm örnekleri<br/>ve algoritma projeleri</p>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+        <h4>🤝 Yardım</h4>
+        <p>Backend teknolojileri<br/>ve veri analizi</p>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
+        <h4>💡 Öğrenme</h4>
+        <p>Yeni teknolojiler<br/>ve metodolojiler</p>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+## 🌐 **Bağlantılar & İletişim**
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%BCseyin-enes-ert%C3%BCrk-1ba5ba28b/)
+  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/huseyineneserturk)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/huseyineneserturk)
+  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/huseyinenesertu1)
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/huseyineneserturk)
+  
+  <br/><br/>
+  
+  📧 **Email:** huseyineneserturk@gmail.com
+  
+</div>
+
+---
+
+## 💭 **Motivasyon**
+
+<div align="center">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  
+  <br/>
+  
+  > *"Kod yazmak sanattır, problem çözmek tutkudur!"* 🎨💻
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  
+  **Teşekkürler! Profile göz attığınız için! 🚀**
+  
+  <img src="https://komarev.com/ghpvc/?username=huseyineneserturk&style=flat-square&color=blue" alt=""/>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🌟 **"Keep coding, keep learning, keep growing!"** 🌟
+  
+  ![Snake animation](https://github.com/huseyineneserturk/huseyineneserturk/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
