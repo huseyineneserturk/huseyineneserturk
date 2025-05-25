@@ -181,6 +181,6 @@ const huseyinEnes = {
   
   ### 🌟 **"Keep coding, keep learning, keep growing!"** 🌟
   
-  ![Snake animation](https://github.com/huseyineneserturk/huseyineneserturk/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huseyineneserturk&theme=github_dark"/>
   
 </div>
