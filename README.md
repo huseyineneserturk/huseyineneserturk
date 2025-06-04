@@ -22,7 +22,6 @@ const huseyinEnes = {
     focus: ["Backend Development", "Data Analysis"],
     currentlyWorking: "CommsItumo Project",
     askMeAbout: ["Java", "C#", "Python", "Algorithms", "Data Structures"],
-       "
 };
 ```
 
