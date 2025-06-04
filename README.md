@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Yazılım+Mühendisliği+Öğrencisi;Backend+Developer+Adayı;Veri+Analizine+Meraklı;Problem+Solver;Code+Enthusiast)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+and+Data+Analysis)
   
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   
@@ -19,10 +19,10 @@ const huseyinEnes = {
     title: "Software Engineering Student",
     year: "2nd Year",
     location: "Turkey 🇹🇷",
-    focus: ["Backend Development", "Data Analysis", "Problem Solving"],
+    focus: ["Backend Development", "Data Analysis"],
     currentlyWorking: "CommsItumo Project",
     askMeAbout: ["Java", "C#", "Python", "Algorithms", "Data Structures"],
-    funFact: "Bug lover! 🐛🔍"
+       "
 };
 ```
 
@@ -37,12 +37,12 @@ const huseyinEnes = {
       <td align="center" width="50%">
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
         <h3>🔭 Active Project</h3>
-        <p><strong>CommsItumo</strong><br/>Aktif geliştirme aşamasında!</p>
+        <p><strong>CommsItumo</strong><br/>Working on it!</p>
       </td>
       <td align="center" width="50%">
         <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
         <h3>🌱 Learning</h3>
-        <p><strong>Backend & Data Analysis</strong><br/>Sürekli öğrenme modunda!</p>
+        <p><strong>Backend & Data Analysis</strong><br/>I'm still learning!</p>
       </td>
     </tr>
   </table>
@@ -150,19 +150,6 @@ const huseyinEnes = {
 </div>
 
 ---
-
-## 💭 **Motivasyon**
-
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  
-  <br/>
-  
-  > *"Kod yazmak sanattır, problem çözmek tutkudur!"* 🎨💻
-  
-</div>
-
 ---
 
 <div align="center">
@@ -178,8 +165,7 @@ const huseyinEnes = {
 ---
 
 <div align="center">
-  
-  ### 🌟 **"Keep coding, keep learning, keep growing!"** 🌟
+
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huseyineneserturk&theme=github_dark"/>
   
