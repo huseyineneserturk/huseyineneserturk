@@ -1,4 +1,4 @@
-# <div align="center">👋 Selam Millet! Ben **Hüseyin Enes ERTÜRK**</div>
+# <div align="center">👋 Hello World! I'm **Hüseyin Enes ERTÜRK**</div>
 
 <div align="center">
   
@@ -6,13 +6,13 @@
   
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=huseyineneserturk&label=Profil%20Görüntülenme&color=6C63FF&style=for-the-badge)](https://github.com/huseyineneserturk)
+  [![Profile Views](https://komarev.com/ghpvc/?username=huseyineneserturk&label=Profile%20Views&color=6C63FF&style=for-the-badge)](https://github.com/huseyineneserturk)
   
 </div>
 
 ---
 
-## 🎯 **Hakkımda**
+## 🎯 **About Me**
 
 ```typescript
 const huseyinEnes = {
@@ -27,7 +27,7 @@ const huseyinEnes = {
 
 ---
 
-## 🚀 **Şu An Ne Yapıyorum?**
+## 🚀 **What Am I Doing Now?**
 
 <div align="center">
   
@@ -75,7 +75,7 @@ const huseyinEnes = {
 
 ---
 
-## 📊 **GitHub İstatistiklerim**
+## 📊 **My GitHub Statistics**
 
 <div align="center">
   
@@ -104,7 +104,7 @@ const huseyinEnes = {
 
 ---
 
-## 🤝 **İşbirliği & Yardım**
+## 🤝 **Collaboration & Help**
 
 <div align="center">
   
@@ -112,18 +112,18 @@ const huseyinEnes = {
     <tr>
       <td align="center">
         <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
-        <h4>👯 İşbirliği</h4>
-        <p>Flowgorithm örnekleri<br/>ve algoritma projeleri</p>
+        <h4>👯 Collaboration</h4>
+        <p>Flowgorithm examples<br/>and algorithm projects</p>
       </td>
       <td align="center">
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
-        <h4>🤝 Yardım</h4>
-        <p>Backend teknolojileri<br/>ve veri analizi</p>
+        <h4>🤝 Help</h4>
+        <p>Backend technologies<br/>and data analysis</p>
       </td>
       <td align="center">
         <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
-        <h4>💡 Öğrenme</h4>
-        <p>Yeni teknolojiler<br/>ve metodolojiler</p>
+        <h4>💡 Learning</h4>
+        <p>New technologies<br/>and methodologies</p>
       </td>
     </tr>
   </table>
@@ -132,7 +132,7 @@ const huseyinEnes = {
 
 ---
 
-## 🌐 **Bağlantılar & İletişim**
+## 🌐 **Connections & Contact**
 
 <div align="center">
   
@@ -155,7 +155,7 @@ const huseyinEnes = {
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   
-  **Teşekkürler! Profile göz attığınız için! 🚀**
+  **Thanks for checking out my profile! 🚀**
   
   <img src="https://komarev.com/ghpvc/?username=huseyineneserturk&style=flat-square&color=blue" alt=""/>
   
