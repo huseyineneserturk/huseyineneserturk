@@ -17,7 +17,7 @@
 ```typescript
 const huseyinEnes = {
     title: "Software Engineering Student",
-    year: "2nd Year",
+    year: "3nd Year",
     location: "Turkey 🇹🇷",
     focus: ["Backend Development", "Data Analysis"],
     currentlyWorking: "Notest",
