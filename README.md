@@ -36,7 +36,7 @@ const huseyinEnes = {
       <td align="center" width="50%">
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
         <h3>🔭 Active Project</h3>
-        <p><strong>Notest</strong><br/>Working on it!</p>
+        <p><strong>Jobverse</strong><br/>Working on it!</p>
       </td>
       <td align="center" width="50%">
         <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
