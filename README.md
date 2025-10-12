@@ -20,7 +20,7 @@ const huseyinEnes = {
     year: "3nd Year",
     location: "Turkey 🇹🇷",
     focus: ["Backend Development", "Data Analysis"],
-    currentlyWorking: "Notest",
+    currentlyWorking: "Jobverse",
     askMeAbout: ["Java", "C#", "Python", "Algorithms", "Data Structures"],
 };
 ```
