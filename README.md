@@ -25,8 +25,10 @@ const developer = {
 };
 ```
 
-🎓 **Third-year Software Engineering student** passionate about building scalable backend systems  
+🎓 **Third-year Software Engineering student** passionate about building scalable backend systems 
+
 🔭 **Currently focused on** Java Spring Boot and backend development 
+
 🌱 **Learning** Advanced Spring Boot concepts, microservices, and cloud technologies
 
 ---
@@ -162,8 +164,6 @@ const developer = {
 ---
 
 <div align="center">
-
-### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
