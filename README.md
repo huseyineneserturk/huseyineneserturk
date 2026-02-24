@@ -21,7 +21,7 @@ const developer = {
     focus: "Backend Development",
     currentLearning: "Java Spring Boot Backend Development",
     languages: ["Java", "C#", "Python", "Flutter"],
-    interests: ["Backend Development", "System Architecture", "RESTful APIs"]
+    interests: ["Backend Development", "System Architecture"]
 };
 ```
 
