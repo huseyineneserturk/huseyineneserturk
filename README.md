@@ -83,7 +83,7 @@ public class Developer {
 ![CI](https://img.shields.io/badge/CI-Test_%26_Lint-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![CD](https://img.shields.io/badge/CD-Docker_Build-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Agentia** lets users create, run, and share their own AI agents — no complex flow diagrams required. Unlike n8n, Make.com, or Zapier, it delivers a fully **mobile-native** experience, elevated by a gamified **Agent City** interface. *(Graduation Project, 2026)*
+**Agentia** lets users create, run, and share their own AI agents — no complex flow diagrams required. Unlike n8n, Make.com, or Zapier, it delivers a fully **mobile-native** experience, elevated by a gamified **Agent City** interface.
 
 **Highlights**
 
