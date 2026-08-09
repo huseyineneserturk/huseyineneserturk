@@ -21,7 +21,7 @@ Third-year Software Engineering student focused on **backend development**, **di
 ```java
 public class Developer {
     String name      = "Hüseyin Enes Ertürk";
-    String role      = "Software Engineering Student (3rd Year)";
+    String role      = "Software Engineering Student (4rd Year)";
     String location  = "Turkey";
     String focus     = "Backend Development & Distributed Systems";
 
