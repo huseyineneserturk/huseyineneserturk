@@ -30,7 +30,7 @@ public class Developer {
 }
 ```
 
-- Currently building **Agentia**, a mobile-first AI agent orchestration platform
+- Currently building **StoryLucid**, a mobile-first ed-tech application and **Fallrise**, an era based strategy game.
 - Deepening my expertise in **Spring Boot, microservices, and cloud-native architecture**
 - Interested in scalable system design, AI integration, and clean, maintainable backends
 
