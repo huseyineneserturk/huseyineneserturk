@@ -1,8 +1,8 @@
-![Hüseyin Enes Ertürk — backend, mobile and browser games](assets/profile-header.svg)
+![Hüseyin Enes Ertürk — Java, Spring Boot and user experience](assets/profile-header.svg)
 
 **Software engineering student · Türkiye**
 
-My main focus is backend development with Java and Spring Boot. My work ranges from AI agent workflows and Flutter apps to a real-time strategy game built for the browser.
+I focus on Java and Spring Boot, building applications that put user experience first.
 
 [Website & writing](https://www.huseyineneserturk.com/en) · [LinkedIn](https://www.linkedin.com/in/huseyin-enes-erturk/) · [Email](mailto:huseyineneserturk@gmail.com)
 
@@ -16,7 +16,7 @@ My main focus is backend development with Java and Spring Boot. My work ranges f
 
 *AI agent workflows · Graduation project*
 
-A Flutter app for creating AI agents and connecting them into pipelines. I built the Spring Boot API and Python worker layer for agent configuration, asynchronous execution, pipeline management and usage credits.
+A mobile app for creating AI agents, connecting them into workflows and managing their tasks. Built with a Spring Boot API, Python workers and a Flutter client.
 
 `Java` `Spring Boot` `Flutter` `FastAPI` `Celery` `PostgreSQL` `Redis`
 
@@ -26,21 +26,19 @@ A Flutter app for creating AI agents and connecting them into pipelines. I built
 
 *Civilization strategy · Browser game*
 
-Build an economy, command armies and choose civilizations as the ages progress. Written with TypeScript and Canvas, the game shares its simulation between the browser and a Node.js server for solo and online matches.
+A browser strategy game where players build an economy, command armies and advance through civilizations. Solo and online matches share the same TypeScript simulation.
 
 `TypeScript` `HTML5 Canvas` `Node.js` `Socket.IO`
 
 [Play the game ↗](https://cradlecrown.com/) · [Project overview](https://www.huseyineneserturk.com/en/projects/cradlecrown) · Private source
 
-### 03 / Scanex
+### 03 / StoryLucid
 
-*Optical answer-sheet reader · Mobile app*
+*Interactive reading · EdTech concept*
 
-Generate a PDF answer sheet, scan marked answers and export grades to Excel. The OMR processing is written in Dart, with ML Kit for text recognition and SQLite for local storage.
+A concept for a children's reading app with branching stories and personalised AI content. Planned features include generated illustrations and narration using a parent's voice.
 
-`Flutter` `Dart` `ML Kit` `SQLite`
-
-[Explore the code ↗](https://github.com/huseyineneserturk/Scanex)
+**Stage:** Concept · Private project
 
 ---
 
