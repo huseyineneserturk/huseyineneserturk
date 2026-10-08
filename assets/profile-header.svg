@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Hüseyin Enes Ertürk</title>
+  <desc id="desc">Backend, mobile and browser games. A navy cover with ivory typography and three connected geometric forms.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#e7e2d7" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="14" fill="#14202e"/>
+  <rect width="1200" height="280" rx="14" fill="url(#grid)"/>
+  <path d="M52 52H104" stroke="#d8b780" stroke-width="3"/>
+  <text x="52" y="86" fill="#d8b780" font-family="monospace" font-size="13" letter-spacing="3">BACKEND / MOBILE / GAMES</text>
+  <text x="49" y="155" fill="#f3eee3" font-family="Georgia, 'Times New Roman', serif" font-size="53">Hüseyin Enes Ertürk</text>
+  <text x="52" y="203" fill="#acb7c4" font-family="Arial, Helvetica, sans-serif" font-size="17">Java &amp; Spring Boot · Flutter · Python · TypeScript</text>
+  <path d="M850 46V234" stroke="#3b4753"/>
+  <g fill="none" stroke="#a4b5c8" stroke-width="1.5">
+    <path d="M922 106L1028 79L1103 164L988 205Z" stroke-opacity=".4"/>
+    <path d="M922 106L1103 164M1028 79L988 205" stroke-opacity=".3"/>
+    <rect x="900" y="84" width="44" height="44" rx="10" fill="#14202e"/>
+    <circle cx="1028" cy="79" r="23" fill="#14202e"/>
+    <path d="M1103 140L1127 164L1103 188L1079 164Z" fill="#14202e"/>
+    <circle cx="988" cy="205" r="7" fill="#d8b780" stroke="#d8b780"/>
+  </g>
+  <g fill="#d8b780">
+    <circle cx="922" cy="106" r="4"/>
+    <circle cx="1028" cy="79" r="4"/>
+    <circle cx="1103" cy="164" r="4"/>
+  </g>
+</svg>
