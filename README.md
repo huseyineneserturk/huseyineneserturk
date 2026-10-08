@@ -6,7 +6,7 @@ I focus on Java and Spring Boot, building applications that put user experience 
 
 [Website & writing](https://www.huseyineneserturk.com/en) · [LinkedIn](https://www.linkedin.com/in/huseyin-enes-erturk/) · [Email](mailto:huseyineneserturk@gmail.com)
 
-**Explore** → [Selected work](#selected-work) · [Toolkit](#toolkit) · [More projects](#more-projects) · [Research & experiments](#research--experiments)
+**Explore** → [Selected work](#selected-work) · [Toolkit](#toolkit) · [More projects](#more-projects) · [Website ↗](https://www.huseyineneserturk.com/en)
 
 ---
 
@@ -62,12 +62,4 @@ A concept for a children's reading app with branching stories and personalised A
 
 ---
 
-## Research & experiments
-
-**Radar data.** During an internship, I studied UWB and mmWave datasets and built a logistic regression baseline for human-presence detection, evaluated on controlled data.
-
-**App jams.** [Quizz.ai](https://github.com/huseyineneserturk/quizz.ai) is a Flutter quiz app developed with a team. [SayCheese](https://github.com/huseyineneserturk/SayCheese) is a team prototype for finding photographers.
-
-**Learning.** [Java examples](https://github.com/huseyineneserturk/Java-Examples), [Flowgorithm samples](https://github.com/huseyineneserturk/Flowgorithm-Flowchart-Samples) and a personal Java backend roadmap.
-
-**Small tools.** [Collatz ShuffleBucket](https://github.com/huseyineneserturk/Bilgi-Sistemleri-Guvenligi-Collatz-ShuffleBucket) is an educational cryptography exercise. [Stock Tracker](https://github.com/huseyineneserturk/Stock-Tracker) checks stock availability and sends notifications.
+[![Visit my website — projects, writing and release notes at huseyineneserturk.com](assets/website-card.svg)](https://www.huseyineneserturk.com/en)
